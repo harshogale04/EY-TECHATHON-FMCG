@@ -1,0 +1,13 @@
+product_sku,voltage_rating_kv,conductor_size_mm2,material,insulation_type,core_count,armoring,temperature_rating_celsius,unit_price_per_meter,bis_certified,lead_time_days,warranty_years
+CABLE-1.1KV-240CU-XLPE-4C,1.1,240,Copper,XLPE,4.0,Steel Tape,90,450,Yes,30,2
+CABLE-1.1KV-240AL-XLPE-4C,1.1,240,Aluminum,XLPE,4.0,None,90,420,Yes,30,2
+CABLE-1.1KV-185CU-XLPE-3C,1.1,185,Copper,XLPE,3.0,Steel Wire,90,380,Yes,30,2
+CABLE-0.6KV-185CU-XLPE-3C,0.6,185,Copper,XLPE,3.0,Steel Wire,90,320,Yes,30,2
+CABLE-0.6KV-120AL-XLPE-3C,0.6,120,Aluminum,XLPE,3.0,None,90,280,Yes,30,2
+CABLE-0.4KV-50CU-PVC-2C,0.4,50,Copper,PVC,2.0,None,70,95,Yes,15,2
+CABLE-0.4KV-50AL-PVC-2C,0.4,50,Aluminum,PVC,2.0,None,70,85,Yes,15,2
+CABLE-0.4KV-16CU-PVC-4C,0.4,16,Copper,PVC,4.0,None,70,35,Yes,15,2
+CABLE-0.4KV-10CU-PVC-2C,0.4,10,Copper,PVC,2.0,None,70,28,Yes,15,2
+CABLE-LT-50CU-PVC-3.5C,0.4,50,Copper,PVC,3.5,None,70,90,Yes,15,2
+CABLE-HV-240CU-XLPE-ST-ARMOR,1.1,240,Copper,XLPE,4.0,Steel Tape,90,460,Yes,35,2
+CABLE-MV-120CU-XLPE-WIRE-ARMOR,0.6,120,Copper,XLPE,3.0,Steel Wire,90,330,Yes,35,2

@@ -1,0 +1,9 @@
+test_type,unit_cost_rupees,test_duration_hours,mandatory
+High_Voltage_Withstand_Test,25000,2.0,Yes
+Insulation_Resistance_Test,12000,4.0,Yes
+Tensile_Strength_Test,18000,3.0,Yes
+Mechanical_Inspection,15000,2.0,Yes
+Documentation_Certification,10000,1.0,Yes
+Routine_Pre_Delivery_Test,8000,1.5,No
+Type_Test_Lab,20000,8.0,No
+Thermal_Cycling_Test,18000,24.0,No

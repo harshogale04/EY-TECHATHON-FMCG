@@ -1,2 +1,2 @@
-# EY-TECHATHON-FMCG
+# EY-Techathon
 Repo for EY Techathon

@@ -1,0 +1,6 @@
+cost_category,unit_cost_rupees,applicable_to
+On_Site_Installation,5000,All orders
+Documentation_Support,3000,All orders
+Technical_Consultation,2000,Orders > 500m
+Spare_Parts_Kit_10_percent,10000,Optional
+Transportation,8000,All orders
